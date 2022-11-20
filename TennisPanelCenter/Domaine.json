@@ -8,5 +8,14 @@
             }
         ],
         "domain":"padelcenter.site"
+    },
+    {
+        "name": "localhost",
+        "phones": [
+            {
+                "Badreddine Elayoute":"0675520973"
+            }
+        ],
+        "domain":"127.0.0.1:8000"
     }
 ]
